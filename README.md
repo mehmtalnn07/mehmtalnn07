@@ -1,4 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.mehmetalan.com)
+<!-- %7C -> alttaki yaziya | eklememize yariyor -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+Mehmet+ALAN+Channel;+Click+on+the+image+to+my+site)
+ 
 <hr/>
 <h1 align="center">Hi 👋, I'm Mehmet.</h1>
 <hr/>
@@ -13,6 +16,8 @@
 - How to reach me **mehmtalnn07@gmail.com**
 
 - My Personal Website **www.mehmetalan.com**
+
+
 <hr/>
 <h3 align="left">Connect with me:</h3>
  <div align="left"> 
