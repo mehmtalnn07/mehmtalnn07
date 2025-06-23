@@ -11,8 +11,6 @@
 
 - How to reach me **mehmtalnn07@gmail.com**
 
-- My Personal Website **www.mehmetalan.com**
-
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
